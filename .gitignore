@@ -35,3 +35,7 @@ distribute-*.tar.gz
 
 # Mac OSX
 .DS_Store
+
+
+# Sublime Text editor configuration
+survey.sublime*

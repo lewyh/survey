@@ -1,4 +1,4 @@
-# Licensed under a 3-clause BSD style license - see LICENSE.rst
+# Copyright, the authors - see LICENSE.rst
 
 try:
     from .version import version as __version__
@@ -12,3 +12,7 @@ from astropy.tests.helper import TestRunner
 _test_runner = TestRunner(__path__[0])
 del TestRunner
 test = _test_runner.run_tests
+
+
+
+from survey import IPHAS
