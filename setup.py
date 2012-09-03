@@ -12,13 +12,13 @@ from astropy import setup_helpers
 from astropy.version_helper import get_git_devstr, generate_version_py
 
 # Set affiliated package-specific settings
-PACKAGENAME = 'packagename'
-DESCRIPTION = 'Astropy affiliated package'
+PACKAGENAME = 'survey'
+DESCRIPTION = 'Common functions for photometric surveys'
 LONG_DESCRIPTION = ''
-AUTHOR = ''
+AUTHOR = 'Geert Barentsen, Hywel Farnhill'
 AUTHOR_EMAIL = ''
-LICENSE = 'BSD'
-URL = 'http://astropy.org'
+LICENSE = 'Copyright, the authors.'
+URL = 'TBD'
 
 #version should be PEP386 compatible (http://www.python.org/dev/peps/pep-0386)
 version = '0.0.dev'
