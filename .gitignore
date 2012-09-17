@@ -1,3 +1,7 @@
+# Survey DQC information
+stats*.fits
+fields_observed*.dat
+
 # Compiled files
 *.py[co]
 *.a
